@@ -3,6 +3,22 @@
     "version": "versiune",
     "current": "curent"
   },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Dezactivează fereastră",
+        "disable_summer": "Dezactivează vară",
+        "disable_eco": "Dezactivează Eco",
+        "disable_heat": "Dezactivează încălzire",
+        "disable_off": "Dezactivează oprit",
+        "disable_menu": "Dezactivează meniu",
+        "disable_battery_warning": "Dezactivează notificare baterie",
+        "disable_buttons": "Dezactivează butoane plus/minus",
+        "eco_temperature": "Temperatura Eco",
+        "set_current_as_main": "Schimbă afișaj temperatură curentă cu temperatura țintă"
+      }
+    }
+  },
   "extra_states": {
     "window_open": "Fereastră deschisă",
     "night_mode": "Mod noapte",
